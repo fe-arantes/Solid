@@ -18,23 +18,23 @@ Atentem-se que o SOLID são princípios e não padrões!
 
 Significado de cada princípio:
 
-Princípio da Responsabilidade Única
+# Princípio da Responsabilidade Única
 
 O princípio da responsabilidade única tem como regra que uma classe deve possuir uma, e apenas uma, responsabilidade. Por exemplo: A classe cozinheiro deve apenas preparar a refeição, não é responsabilidade da classe cobrar ou recolher os pratos das mesas. 
 
-Princípio Aberto/Fechado
+# Princípio Aberto/Fechado
 
 O princípio aberto/fechado diz que as entidades de software (classes, módulos, funções, etc.) devem estar abertas para extensão, mas fechadas para modificação, ou seja, deve ser possível estender o comportamento de uma classe, mas não a modificar.
 
-Princípio da Substituição de Liskov
+# Princípio da Substituição de Liskov
 
 O Princípio de Substituição de Liskov diz que classes derivadas podem ser substituídas por suas classes base.
 
-Princípio da Segregação de Interface
+# Princípio da Segregação de Interface
 
 O Princípio de Segregação de Interface diz que o cliente não deve ser forçado a implementar métodos que ele não irá utilizar. Em resumo, interfaces específicas são melhores do que uma única interface de propósito geral.
 
-Princípio da Inversão de Dependência
+# Princípio da Inversão de Dependência
 
 O Princípio de Inversão de Dependência possui duas definições: 
 
